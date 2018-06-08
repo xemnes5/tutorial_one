@@ -37,6 +37,7 @@ print(ip_temp.format(192,168,3,1))
 
 ''' 
 Либо так:
+a = IP    
 print(ip_temp.format(int(a[0]),int(a[1]),int(a[2]),int(a[3]))
 '''
 
